@@ -57,6 +57,7 @@ pyautogui.write(f'Prezados analistas, bom dia.\n'
                 f' \n'
                 f'Abs\n'
                 f'Ian Machado ')
+
 pyautogui.click(x=838, y=636)
 
 
